@@ -8,5 +8,6 @@ public class test {
 		System.out.println("hi");
 		System.out.println("test1_b branch!");
 		System.out.println("test1_b branch!");
+		System.out.println("test1_a branch!");
 	}
 }
